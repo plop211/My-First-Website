@@ -1,0 +1,63 @@
+html {
+  background-color: lightcoral;
+}
+
+body {
+  background-color: paleturquoise;
+  width: 600px;
+  margin: auto;
+  padding: 20px 100px;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 600px;
+  margin: auto;
+  border: 3px solid purple;
+  padding: 30px 75px;
+  border-radius: 10px;
+  font-family: "Protest Riot", sans-serif;
+}
+
+a {
+  color: purple;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+  background-color: lightslategray;
+}
+
+h1 {
+  background-color: coral;
+  margin: auto;
+  border: 5px solid coral;
+  border-radius: 20px;
+  border-style: calc(20);
+}
+
+h2 {
+  background-color: coral;
+  margin: auto;
+  border: 5px solid coral;
+  border-radius: 20px;
+  border-style: calc(20);
+}
+
+p:hover {
+  border: 5px solid orangered;
+}
+
+ul:hover {
+  border: 5px solid orangered;
+}
+
+img:hover {
+  border: 5px solid purple;
+}
+
+body {
+  text-align: center;
+}
+ul {
+  margin: auto;
+  width: 200px;
+}
